@@ -4,18 +4,5 @@
     "id": 1,
                 title: "Muhammad Iqbal Tahir",
                 body: "Game Design, Product Manager",
-  },
-  {
-    "userId": 1,
-    "id": 2,
-                name: "Muhamad Danil",
-                desc: "Programmer",
-   },
-  {
-    "userId": 1,
-    "id": 3,
-                name: "Iche Setyawati",
-                desc: "Publisher, Data Analyst",
-                
-          },
+  }
 ]
