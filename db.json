@@ -1,8 +1,10 @@
-[
-  {
+{
+  "posts": {
+ {
     "userId": 1,
     "id": 1,
       title: "Muhammad Iqbal Tahir",
       body: "Game Design, Product Manager",
   }
-]
+}
+}
