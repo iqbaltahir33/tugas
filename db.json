@@ -1,0 +1,24 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+                photos: "assets/images/photos_00.png",
+                name: "Muhammad Iqbal Tahir",
+                desc: "Game Design, Product Manager",
+  },
+  {
+    "userId": 1,
+    "id": 2,
+                photos: "assets/images/photos_02.png",
+                name: "Muhamad Danil",
+                desc: "Programmer",
+   },
+  {
+    "userId": 1,
+    "id": 3,
+                photos: "assets/images/photos_05.png",
+                name: "Iche Setyawati",
+                desc: "Publisher, Data Analyst",
+                
+          },
+]
