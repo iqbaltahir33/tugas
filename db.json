@@ -14,9 +14,9 @@
     },
     {
       "id": 3,
-     photos: "assets/images/photos_05.png",
-     name: "Iche Setyawati",
-     desc: "Publisher, Data Analyst",
+     "photos": "assets/images/photos_05.png",
+     "name": "Iche Setyawati",
+     "desc": "Publisher, Data Analyst",
     }
   ],
   "comments": [
