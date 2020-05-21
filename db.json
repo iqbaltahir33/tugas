@@ -1,11 +1,12 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+ "posts" : [
+    {	 
+      "id": 1,	   
+     "title": "Post 1",
+      "body" : "bismillah",	
+      "photos": "assets/images/photos_00.png",	
+      "name": "Muhammad Iqbal Tahir",
+      "desc": "Game Design, Product Manager",
+    }	 
+  ]
 }
