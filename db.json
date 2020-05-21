@@ -1,7 +1,15 @@
-{
-
-    "userId": 1,
+[
+"posts": {
+      {
     "id": 1,
-      "title": "Muhammad Iqbal Tahir",
-      "body": "Game Design, Product Manager",
- }
+    "title": "Post 1"
+  },
+  {
+    "id": 2,
+    "title": "Post 2"
+  },
+  {
+    "id": 3,
+    "title": "Post 3"
+  }}
+]
