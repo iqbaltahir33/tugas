@@ -2,7 +2,9 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Iqbal Tahir",
+      "photos": "assets\images\photos_00.png"
+      "desc": "Game Designer",
     }
   ]
 }
