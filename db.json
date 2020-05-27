@@ -3,7 +3,8 @@
     {
       "id": 1,
       "title": "Iqbal Tahir",
-      "desc" : "Game Designer"
+      "desc" : "Game Designer",
+      "photos" : "assets/images/photos_00.png"
     }
   ]
 }
