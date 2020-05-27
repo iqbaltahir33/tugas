@@ -4,7 +4,13 @@
       "id": 1,
       "title": "Iqbal Tahir",
       "desc" : "Game Designer",
-      "photos" : "assets/images/photos_00.png"
+      "sosmed" : "@iqbaltahir33"
+    }, 
+    {
+      "id": 2,
+      "title": "LeviaZ",
+      "desc" : "Programmer",
+      "sosmed" : "@brownruby"
     }
   ]
 }
