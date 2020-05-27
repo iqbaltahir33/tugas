@@ -2,7 +2,8 @@
   "posts": [
     {
       "id": 1,
-      "title": "Iqbal Tahir"
+      "title": "Iqbal Tahir",
+      "desc" : "Game Designer"
     }
   ]
 }
